@@ -17,7 +17,13 @@ Check out some of my other recent personal projects:
 - 🐝 [Spelling Bee Solver](https://github.com/kennethjmyers/SpellingBeeSolver) - an app that efficiently solves the NYT Spelling Bee game and provides possible solutions.
 - 🦋 [Bsky data project](https://github.com/kennethjmyers/bsky_data_project) - a TypeScript project that scrapes a users [Bluesky](https://bsky.app/) posting data
   - 📈 [tremor-test-app](https://github.com/kennethjmyers/tremor-test-app) - a dashboard made with [Tremor](https://www.tremor.so/) to render the collected Bluesky data (repo needs some polishing)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby&theme=transparent" />
 
+<!-- Themes list https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+<!-- Following is having bugs I reported it to the devs https://github.com/anuraghazra/github-readme-stats/issues/3722
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=dark"
@@ -41,6 +47,7 @@ Check out some of my other recent personal projects:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby" />
 </picture>
+-->
 
 <!--
 **kennethjmyers/kennethjmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
