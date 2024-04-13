@@ -35,7 +35,7 @@ Check out some of my other recent personal projects:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,SCSS,Ruby" />
 </picture>
 
 <!--
