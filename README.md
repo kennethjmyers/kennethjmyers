@@ -29,7 +29,7 @@ Check out some of my other recent personal projects:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true" />
 </picture>
-
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby&theme=dark"
