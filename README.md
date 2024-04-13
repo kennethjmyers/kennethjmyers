@@ -18,17 +18,27 @@ Check out some of my other recent personal projects:
 - 🦋 [Bsky data project](https://github.com/kennethjmyers/bsky_data_project) - a TypeScript project that scrapes a users [Bluesky](https://bsky.app/) posting data
   - 📈 [tremor-test-app](https://github.com/kennethjmyers/tremor-test-app) - a dashboard made with [Tremor](https://www.tremor.so/) to render the collected Bluesky data (repo needs some polishing)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true" />
-</picture>
+[//]: # (<picture>)
+
+[//]: # (  <source)
+
+[//]: # (    srcset="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=dark")
+
+[//]: # (    media="&#40;prefers-color-scheme: dark&#41;")
+
+[//]: # (  />)
+
+[//]: # (  <source)
+
+[//]: # (    srcset="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true")
+
+[//]: # (    media="&#40;prefers-color-scheme: light&#41;, &#40;prefers-color-scheme: no-preference&#41;")
+
+[//]: # (  />)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true" />)
+
+[//]: # (</picture>)
 
 <picture>
   <source
