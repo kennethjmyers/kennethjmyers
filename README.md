@@ -18,6 +18,8 @@ Check out some of my other recent personal projects:
 - 🦋 [Bsky data project](https://github.com/kennethjmyers/bsky_data_project) - a TypeScript project that scrapes a users [Bluesky](https://bsky.app/) posting data
   - 📈 [tremor-test-app](https://github.com/kennethjmyers/tremor-test-app) - a dashboard made with [Tremor](https://www.tremor.so/) to render the collected Bluesky data (repo needs some polishing)
   
+---
+
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=transparent" />
 </picture>
