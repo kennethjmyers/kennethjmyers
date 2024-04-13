@@ -18,9 +18,12 @@ Check out some of my other recent personal projects:
 - 🦋 [Bsky data project](https://github.com/kennethjmyers/bsky_data_project) - a TypeScript project that scrapes a users [Bluesky](https://bsky.app/) posting data
   - 📈 [tremor-test-app](https://github.com/kennethjmyers/tremor-test-app) - a dashboard made with [Tremor](https://www.tremor.so/) to render the collected Bluesky data (repo needs some polishing)
   
-<img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby&theme=transparent" />
-
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=kennethjmyers&show_icons=true&theme=transparent" />
+</picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby&theme=transparent" />
+</picture>
 <!-- Themes list https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <!-- Following is having bugs I reported it to the devs https://github.com/anuraghazra/github-readme-stats/issues/3722
