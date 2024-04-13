@@ -32,10 +32,14 @@ Check out some of my other recent personal projects:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby" />
 </picture>
 
 <!--
